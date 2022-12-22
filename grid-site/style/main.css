@@ -33,6 +33,10 @@ header {
     /* background-color: blue; */
 }
 
+.header-title {
+    margin-left: 1rem;
+}
+
 main {
     background-color: var(--wedding);
     height: 100vh;
